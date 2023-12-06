@@ -1,30 +1,73 @@
-# React + TypeScript + Vite
+# Hangman game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Imagen del proyecto](https://github.com/k1k3cb/administrador-clientes/blob/main/public/screenShoot1.png)
 
-Currently, two official plugins are available:
+## Ejemplo en vivo
+ 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Enlace al proyecto](https://hangman-game-r0vq.onrender.com)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Descripción 📑
 
-- Configure the top-level `parserOptions` property like this:
+Desarrollo del juego del Ahorcado
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+## ¿Qué he aprendido en este proyecto? 🙇🏻
+
+Usar [TypeScript ](https://www.typescriptlang.org/)  con React
+
+## Tecnologías 🛠
+
+<!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
+
+
+[![VITE](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://es.react.dev/)
+[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+
+
+
+
+
+## Vista previa del proyecto
+
+Si quieres echar un vistazo al proyecto, te recomiendo:
+
+![Captura del proyecto](https://github.com/k1k3cb/administrador-clientes/blob/main/public/screenShoot2.png)
+![Captura del proyecto](https://github.com/k1k3cb/administrador-clientes/blob/main/public/screenShoot3.png)
+
+
+
+
+
+
+## Autor ✒️
+
+**ENRIQUE COMESAÑA**
+
+  [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecbardev@gmail.com)
+
+<!-- - [enriquecbardev@gmail.com](enriquecbardev@gmail.com) -->
+- [LinkedIn](https://www.linkedin.com/in/enrique-comesa%c3%b1a-312500268/)
+- [Porfolio web](https://portfolio-ep5h.onrender.com/)
+
+## Instalación
+
+Este proyecto para su instalación necesitas usar los siguientes comandos:
+
+-npm install <br>
+-npm run dev<br>
+
+
+Si solamente quieres verlo debes usar el comando *npm run preview*
+
+
+
+## Licencia 📄
+
+MIT Public License v3.0
+No puede usarse comercialmente.
