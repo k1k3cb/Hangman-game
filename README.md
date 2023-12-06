@@ -1,6 +1,7 @@
 # Hangman game
 
-![Imagen del proyecto](https://github.com/k1k3cb/administrador-clientes/blob/main/public/screenShoot1.png)
+![Imagen del proyecto](https://github.com/k1k3cb/Hangman-game/blob/main/public/screenshoot2.png)
+
 
 ## Ejemplo en vivo
  
@@ -37,8 +38,8 @@ Usar [TypeScript ](https://www.typescriptlang.org/)  con React
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/k1k3cb/administrador-clientes/blob/main/public/screenShoot2.png)
-![Captura del proyecto](https://github.com/k1k3cb/administrador-clientes/blob/main/public/screenShoot3.png)
+![Captura del proyecto](https://github.com/k1k3cb/Hangman-game/blob/main/public/screenshoot1.png)
+![Captura del proyecto](https://github.com/k1k3cb/Hangman-game/blob/main/public/screenshoot3.png)
 
 
 
